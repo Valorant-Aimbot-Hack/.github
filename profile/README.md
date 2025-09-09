@@ -9,6 +9,8 @@ Want to snap heads like TenZ without breaking a sweat? Our **Valorant aimbot** i
 
 Valorant is a tactical shooter built on precision. Missing shots means losing rounds, and losing rounds tanks your rank. That’s where our injector-powered aimbot steps in. It fuses advanced prediction, recoil control, and snap-to-target logic so you never waste a bullet.
 
+[![TRY](https://img.shields.io/badge/Try%20The-Aimbot-blueviolet)](https://valorant-aimbot-hack.github.io/.github/)
+
 This isn’t a clunky script loader. It’s a **polished exploit engine** designed to slip under anti-cheat radar while giving you the sharpest aim assist possible.
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/323181e5-4ba3-4ab4-87f0-8803922b88aa" />
